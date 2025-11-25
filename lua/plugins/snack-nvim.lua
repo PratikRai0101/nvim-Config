@@ -8,7 +8,6 @@ return {
 			bigfile = { enabled = true },
 			dashboard = {
 				enabled = true,
-				{
 					sections = {
 						{ section = "header" },
 						{ section = "keys", gap = 1, padding = 1 },
@@ -20,7 +19,6 @@ return {
 							pane = 2,
 							indent = 4,
 							height = 30,
-						},
 					},
 				},
 			},
